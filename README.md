@@ -1,1 +1,7 @@
-Copy the code and paste it into the search bar of the website and you can see any password behind asterisks. Highlight the password asterisks before submitting the javascript in the search bar. Also make sure you put JavaScript: before the code in the search bar.
+1.) Copy the code from revealer.js
+2.) Go to the website where you'd like to reveal a password for
+3.) Highlight the asterisks
+4.) Paste the code in the search bar
+5.) Type 'javascript:' in front of the code
+6.) Click enter
+7.) Click 'Ok' and the password will be shown
